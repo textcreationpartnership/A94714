@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the Christopher Todd, and several others, relating to the great hardships and abuses they have receiv'd from Charles Eaton, Captain Lieutenant to the Right Honourable the Earl of Oxford and several misdemeanors committed by the said Captain, to the great prejudice of his Majesty's service, humbly offered to the consideration of the knights, cittisens, and burgesses in Parliament assembled.</title>
+            <author>Todd, Christopher, fl. 1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94714</idno>
+            <idno type="STC">Wing T1756B</idno>
+            <idno type="STC">ESTC R230433</idno>
+            <idno type="EEBO-CITATION">99896016</idno>
+            <idno type="PROQUEST">99896016</idno>
+            <idno type="VID">153666</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94714)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153666)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2374:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the Christopher Todd, and several others, relating to the great hardships and abuses they have receiv'd from Charles Eaton, Captain Lieutenant to the Right Honourable the Earl of Oxford and several misdemeanors committed by the said Captain, to the great prejudice of his Majesty's service, humbly offered to the consideration of the knights, cittisens, and burgesses in Parliament assembled.</title>
+                  <author>Todd, Christopher, fl. 1695.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Eaton, Charles, --  Captain --  Early works to 1800.</term>
+               <term>Todd, Christopher, fl. 1695 --  Early works to 1800.</term>
+               <term>Actions and defenses --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:153666:1" rendition="simple:additions"/>
+            <head>THE CASE OF Chriſtopher Todd, And ſeveral OTHERS, <hi>Relating to the great</hi> Hardſhips <hi>and</hi> Abuſes <hi>they have Receiv'd from</hi> CHARLES EATON, Captain Lieutenant to the Right Honourable <hi>
+                  <hi>The Earl of Oxford;</hi> And ſeveral Miſdemeanors Committed by the ſaid Captain, to the great Pre<g ref="char:EOLhyphen"/>judice of his Majeſty's Service, humbly offered to the Conſideration of the</hi> Knights, Cittizens, <hi>and</hi> Burgeſſes <hi>in</hi> Parliament <hi>Aſſembled.</hi>
+            </head>
+            <p>THE ſaid <hi>Chriſtopher Todd,</hi> who Mounted himſelf Three ſeveral Times, at his own Charge, in the Troop, which is now Commanded by the ſaid Captain <hi>Eaton,</hi> and likewiſe paid Ten Pounds towards the Remounting others in the ſaid Troop, but received no Benefit himſelf on that Account; who, after Application made to the Honourable the Commiſſioners of Accompts, for Relief in the great Abuſe and Injury received in the Accompts of their <hi>Iriſh</hi> Arrears, and for objecting againſt the evil Practices of the ſaid Captain, he was diſgracefully put out of His Majeſty's Service by the ſaid Captain; who, by vertue of his Com<g ref="char:EOLhyphen"/>miſſion, fraudulently took away the ſaid <hi>Chriſtopher Todds</hi> Horſe, which he hath ſince Sold as his owne, for Sixteen Pounds.</p>
+            <p>That on the 7th. of <hi>January</hi> 1695. <hi>James Mitchell,</hi> of the ſaid Troop, being under Con<g ref="char:EOLhyphen"/>finement, for refu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing to pay 10 <hi>s. per</hi> Week, for 12. Weeks that his Horſe was kept in Capt. <hi>Eatons</hi> Stable; was offered, That (if he would declare the ſaid <hi>Chriſtopher Todd</hi> had corrupted him to ſpeak what he was to affirm againſt the ſaid Cap<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Eaton</hi> at the Court Martial) it would be better for him: But he being Conſcious to himſelf, that he could not in Juſtice aſſert any ſuch thing; and accordingly refuſing ſo to do, was immediately ſent to the <hi>Martials,</hi> and loaded with Irons made on purpoſe for him; and ſo continued for the ſpace of Eleven Days, in ſo miſerable a Condition that he could hardly walk in the ſaid Priſon, until ſuch time as the Honourable <hi>Robert Harley</hi> 
+               <abbr>Eſq</abbr> ſpoke on his Behalf to the Secretary of War: After which he was Diſcharged from the ſaid Confinement, upon his being Diſgraced at the head of the Regiment, and obliged to ask Forgiveneſs on his Knees Three ſeveral times, altho he knew not wherein he had Offended.</p>
+            <p>That in the Year 1693. Capt. <hi>Eaton</hi> defrauded Mr. <hi>Thomas Bruſhfield</hi> of Fifty Pounds, who was to have made it Sixty <hi>Guineas,</hi> for being Clark to the Troop; but the ſaid Captain not performing his Agreement with him, did propoſe (for the Advance of ſo much more Money as would make up the aforeſaid Sum Eighty Pounds) to procure him a Commiſſion to be Lieutenant of Foot; which he never performed, but directed him to hire Horſes to Muſter in his Troop, which he did accordingly, and once Muſtered on the ſaid Capt. Coach-Horſe.</p>
+            <p>That in <hi>May</hi> 1695. One <hi>John Stear</hi> was hired by Capt. <hi>Eaton</hi>'s Clerk, to Muſter in his Troop for Five Shillings; being told by the ſaid Clerk it was for another Man: That he did actually Muſter; And in <hi>July</hi> 1695 he was Muſtered as abſent upon Furlow, altho he was not in Truth abſent from his Family (where he was at firſt found) nor knew anything of his being ſo Muſtered</p>
+            <p>The ſaid Captain hath Muſtered one <hi>John Palmer,</hi> knowingly by a wrong Name; his firſt Muſter being in <hi>May</hi> 1694. but he never came into Quarters or performed Duty, or appear'd with any Horſe of his own, until he was inform'd againſt in <hi>September</hi> 1695.</p>
+            <pb facs="tcp:153666:2" rendition="simple:additions"/>
+            <p> The ſaid Captain did enter in the Muſter-Rolls of <hi>March, May, July,</hi> and <hi>September</hi> 1693. the Names of <hi>William Dreage, Richard Johnſon, James Collings, Henry Chanell,</hi> and <hi>Francis Thack<g ref="char:EOLhyphen"/>leſton,</hi> who were never known to do Duty, or belong to the Troop.</p>
+            <p>That the ſaid Captain did enter the Names of <hi>Andrew Bayley, Daniel Johnſon, Philip Wagle<g ref="char:EOLhyphen"/>ſtaff, William White, John Lucous, William Watters,</hi> and <hi>John Beard</hi> in the Maſter-Rolls of <hi>May, July, September,</hi> and <hi>November</hi> 1694 as abſent; tho they never did once appear at the Muſters, or were known to belong to the Troop.</p>
+            <p>That the ſaid Captain hath from <hi>February</hi> 92. to <hi>July</hi> 95. had Money advanced by the King for Twenty Horſes, which with 450 <hi>l.</hi> by him ſtop'd and received out of the Soldiers Money, under pretence of Mounting them, amounts to the Sum of 700 <hi>l.</hi> Out of which he hath only bought 14 indifferent Horſes.</p>
+            <p>The ſaid Captain did ſtop out of the Subſiſtance of each Soldier in his Troop Six Pence <hi>per</hi> Week, for 26 Weeks, when in Country Quarters, from <hi>Septembe</hi> 93. contrary to Order, or the Practice of any other Officer in the Regiment.</p>
+            <p>That the ſaid Capt. hath kept <hi>William Jourding</hi> in his Troop unmounted for 20 Months, <hi>viz.</hi> from <hi>May</hi> 94. and (to excuſe his Abſence at the Muſters) often Muſterd him as Sick when he was not ſo; on the Account of geting Three Fifths of his Pay the whole time.</p>
+            <p>That he hath turned out of the Troop ſeveral good Soldiers that did great Service both in <hi>Flanders</hi> and <hi>Ireland,</hi> who could get no Account of their <hi>Iriſh</hi> Arrears from their former Capt. but were reduced to great Want, and one of them had in all probability periſhed, had not the private Soldiers made a Collection for him: And moreover the ſaid Capt. under pretence of Cuſtom, took away the Horſes of ſuch fit Perſons, whom he ſo diſcharged, and took in ſeveral other Perſons that were unfit for the Service; that they might buy in more Horſes to the Troop.</p>
+            <p>That the ſaid Capt. did ſtop Seven Weeks whole Pay from one <hi>Thomas Bello</hi> of the ſaid Troop in <hi>Feb.</hi> 92. and afterwards did take the Horſe of the ſaid <hi>Tho. Bello,</hi> a Journy to the <hi>Bath</hi> for 8 Weeks, and upon his Return the ſaid Horſe was ſo much damaged, that he was not judged worth more than Three Pounds, and yet did make the ſaid <hi>Tho. Bello</hi> pay out of his Subſiſtance, the Charge of his Keeping for all the ſaid time.</p>
+            <p>That the ſaid Capt. hath Muſter'd his Coachman and Groom as effectual Soldiers, altho they never appear to do Service in the Troop; the ſaid Groom having been conſtantly Muſtered on the ſaid Capt. Coach-horſe, and that the ſaid Capt. hath affirmed him to be an effective Sol<g ref="char:EOLhyphen"/>dier; and ſaith, That in regard he is a careful Man, he keeps him to look after the Horſes of ſuch Men as are negligent therein, altho the ſaid Capt. hath obliged ſeveral of his Troop to bring their Horſes to his Stable, and makes them pay Ten Shillings and Six Pence <hi>per</hi> Week for their Keeping, that ſo he may puniſh thoſe to whom he takes a Diſlike: It being properly the Corporals Buſineſs in all <hi>Regiments of Light Horſe,</hi> to ſee that the Soldiers do take due Care of their Horſes.</p>
+            <p>
+               <hi>All which Practices are of ſuch ill Conſequences to the Government, eſpecially at this time, when His Majeſty ſtands in ſo great need of being well ſerved, that it doth wholly doſcourage ſeveral fit Perſons from coming into His Majeſty's Service: The Remedy whereof is humbly left to the Conſideration of this Honourable Houſe, for the preventing the ſaid great and growing Evils, by ſuch Means as in Your abundant Wiſdoms ſhall ſeem meet.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
